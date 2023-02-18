@@ -1,4 +1,6 @@
 __pycache__/
 *.csv
 *.m
+*.mat
+*.asv
 test.py
